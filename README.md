@@ -6,9 +6,13 @@ Primeira versão do arquivo Dockerfile
 - Criando um container
 - Expondo para localhost:8080
 
+
 FROM = Define a imagem base
+
 Label = Define a pessoa responsável pela imagem
+
 Expose = Expõe a porta 80 para web
+
 CMD = Comando pra iniciar NGINX no container
 
 Imagem = imagem-tercilia
