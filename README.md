@@ -39,6 +39,14 @@ docker push terciliacaroline/imagem-tercilia:tag
 
 https://hub.docker.com/repository/docker/terciliacaroline/imagem-tercilia
 
-'Referência na execução do trabalho':
+# FERRAMENTAS UTILIZADAS PARA EXECUÇÃO DO PROJETO
+
+- Máquina Linux
+- Visual code (Para a criação do código e execução)
+- Terminal (Para consultar os dados)
+- Github (Para a hospedagem dos dados)
+- Docker (Criação de usuário para envio da imagem)
+
+#Referência na execução do trabalho:
 
 https://www.macoratti.net/19/02/dock_imgfile1.htm
