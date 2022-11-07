@@ -21,7 +21,7 @@ Container = app
 
 Comando pra criação da imagem: docker build -t "Nomedaimagem"
 
-Comando pra executar o container: docker run --name app -p 8080:80 'Nomedaimagem"
+Comando pra executar o container: docker run --name app -p 8080:80 "Nomedaimagem"
 
 Para o envio da imagem criei um usuário no DockerHub:
 
